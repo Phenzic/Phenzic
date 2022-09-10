@@ -1,8 +1,6 @@
 ![MasterHead](/header.png)
-
-<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/200.gif">
-
-<!-- <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/ce/20/67/ce2067f1f3124c21071ebe9ebb6a52d9.gif"> -->
+<img align="right" alt="Coding" width="100" src="https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/200.gif">
+<img align="right" alt="Coding" width="100" src="https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/200.gif">
 
 
 **Julius170/Julius170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Innovative ideas on how to solve problems
 - 💬 Ask me about Anything, I'm not perfect but i can help 
 - 📫 How to reach me: ...
-- 😄 Pronouns: HE
+- 😄 Pronouns: Dude/Bruv
 - ⚡ Fun fact: I'm Impulsive 
