@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/200.gif">
 <img align="buttom" alt="Coding" width="350" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julius170&theme=dark&hide_border=true&background=360CDD&border=B8DDD9)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julius170&theme=dark&hide_border=true&background=360CDD&border=B8DDD9)
 
 
 Here are some ideas to get you started:
@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Dude/Bruv
 - ⚡ Fun fact: I'm Impulsive 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/JuliusAyoola1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/julius-ogungbola-a71810229/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
