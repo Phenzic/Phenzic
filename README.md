@@ -2,8 +2,7 @@
 <!-- <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/200.gif"> -->
 <img align="right" alt="Coding" width="350" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+![Phenzic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julius170&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julius170&theme=dark&hide_border=true&background=360CDD&border=B8DDD9)
 
 
@@ -24,3 +23,6 @@ Here are some ideas to get you started:
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
+
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=phenzic)
