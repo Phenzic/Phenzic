@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Dude/Bruv
 - ⚡ Fun fact: I'm Impulsive 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julius170&theme=dark&hide_border=true&background=360CDD&border=B8DDD9)](https://git.io/streak-stats)
