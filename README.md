@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Any web3 related Projects ... hit me up i you've got an idea
 - 🤔 I’m looking for help with Innovative ideas on how to solve problems
 - 💬 Ask me about Anything, I'm not perfect but i can help 
-- 📫 How to reach me: ...
 - 😄 Pronouns: Dude/Bruv
 - ⚡ Fun fact: I'm Impulsive 
 
@@ -24,5 +23,8 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
 
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ci89yzfcm6shulgfzc7kl7s4v) -->
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=phenzic)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ci89yzfcm6shulgfzc7kl7s4v&count=1) -->
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ci89yzfcm6shulgfzc7kl7s4v&unique={true|1|on|yes})
