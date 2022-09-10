@@ -1,5 +1,9 @@
 ![MasterHead](/header.png)
 
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/200.gif">
+
+<!-- <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/ce/20/67/ce2067f1f3124c21071ebe9ebb6a52d9.gif"> -->
+
 
 **Julius170/Julius170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
