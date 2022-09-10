@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![MasterHead](your image link)](your GitHub link)
+![MasterHead](/header.png)]
 
 
 **Julius170/Julius170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
