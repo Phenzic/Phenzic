@@ -1,4 +1,4 @@
-<img align="center" alt="Phenzic" width="1000" src="./github-header-image.png"> 
+<img align="center" alt="Phenzic" width="1000" src="./phenzic-header-image.jpg"> 
 <p align="center">
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
