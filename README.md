@@ -23,7 +23,7 @@
 
 
 ![Phenzic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julius170&show_icons=true&theme=radical)
-<img align="right" alt="Phenzic's wakatime" width="330" src="https://github-readme-stats.vercel.app/api/wakatime?username=phenzic">
+<img align="right" alt="Phenzic's wakatime" width="340" src="https://github-readme-stats.vercel.app/api/wakatime?username=phenzic">
 
 <!-- [![Julius170's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phenzic)](https://github.com/phenzic/github-readme-stats) -->
 
