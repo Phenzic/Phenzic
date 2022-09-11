@@ -28,7 +28,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Awesome
-- 🌱 I’m currently learning and growing in the Web3 
+- 🌱 I’m learning and growing in the Web3 
 - 👯 I’m looking to collaborate with Innovative minds
 - 💬 Ask me about Anything, I'm not perfect but i can help 
 - 😄 Pronouns: Dude/Bruv
