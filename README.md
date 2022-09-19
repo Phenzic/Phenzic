@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with Innovative minds
 - 💬 Ask me about Anything, I'm not perfect but i can help 
 - 😄 Pronouns: Dude/Bruv
-- ⚡ Fun fact: I'm Impulsive 
+- ⚡ Fun fact: I'm Impulsive...
 
 <h3 align="left">Connect with me:</h3>
 <p align='left'>
