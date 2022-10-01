@@ -17,7 +17,7 @@
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
           
 </p>
-[![@phenzic's Holopin board](https://holopin.io/api/user/board?user=phenzic)](https://holopin.io/@phenzic)
+<!-- ![@phenzic's Holopin board](https://holopin.io/api/user/board?user=phenzic)(https://holopin.io/@phenzic) -->
 
 ![Phenzic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julius170&show_icons=true&theme=radical)
 
