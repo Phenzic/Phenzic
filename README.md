@@ -1,5 +1,5 @@
 <img align="center" alt="Phenzic" width="1000" src="./phenzic-header-image.png"> 
-<p align="center">
+<p align="center"> 
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
