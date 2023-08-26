@@ -26,10 +26,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Phenzic&theme=dark&hide_border=true&background=360CDD&border=B8DDD9)
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on Awesome
-- 🌱 I’m learning and growing in the Web3 
+- 🔭 I’m currently working on Something Awesome
+- 🌱 I’m learning and growing in the Web3 Space
 - 👯 I’m looking to collaborate with Innovative minds
-- 💬 Ask me about Anything, I'm not perfect but i can help 
+- 💬 Ask me about Anything, not perfect but I can help 
 - 😄 Pronouns: Dude/Bruv
 - ⚡ Fun fact: I'm Impulsive...
 
