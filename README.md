@@ -19,11 +19,11 @@
 </p>
 <!-- ![@phenzic's Holopin board](https://holopin.io/api/user/board?user=phenzic)(https://holopin.io/@phenzic) -->
 
-![Phenzic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julius170&show_icons=true&theme=radical)
+![Phenzic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phenzic&show_icons=true&theme=radical)
 
 <img align="right" alt="Phenzic's wakatime" width="330" src="https://github-readme-stats.vercel.app/api/wakatime?username=phenzic">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julius170&theme=dark&hide_border=true&background=360CDD&border=B8DDD9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Phenzic&theme=dark&hide_border=true&background=360CDD&border=B8DDD9)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Awesome
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 <a href="mailto:ogungbolamayowa@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<!--   <img src="https://gpvc.arturio.dev/Julius170" /> -->
+<!--   <img src="https://gpvc.arturio.dev/Phenzic" /> -->
 </p>
 
   
 ![Phenzic's Tune](https://spotify-recently-played-readme.vercel.app/api?user=ci89yzfcm6shulgfzc7kl7s4v&unique={true|1|on|yes})
-<img align="right" alt="Phenzic" width="350" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Julius170&hide=css,html&theme=tokyonight">
+<img align="right" alt="Phenzic" width="350" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Phenzic&hide=css,html&theme=tokyonight">
 
